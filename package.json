@@ -1,0 +1,28 @@
+{
+  "name": "swagger-mocha",
+  "version": "0.0.0",
+  "description": "Automatic assertion of swagger paths and their responses",
+  "main": "lib/index.js",
+  "repository": "https://github.com/omninews/swagger-mocha.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger",
+    "mocha",
+    "test",
+    "assert"
+  ],
+  "author": "Omni",
+  "contributors": [
+    {
+      "name": "Andreas Hultgren",
+      "email": "andreas@omni.se"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.0.1",
+    "supertest": "^0.14.0"
+  }
+}
