@@ -1,9 +1,10 @@
 {
   "name": "swagger-mocha",
   "version": "0.0.0",
-  "description": "Automatic assertion of swagger paths and their responses",
+  "description": "Automatic validation of Swagger schemas and responses",
   "main": "lib/index.js",
   "repository": "https://github.com/omninews/swagger-mocha.git",
+  "homepage": "https://github.com/omninews/swagger-mocha",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
