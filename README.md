@@ -60,9 +60,13 @@ swaggerTest.run();
   expected to be found in `validParams`. This implementation is admittedly a bit
   fragile.
 
-### `SwaggerTest#run()`
+### `SwaggerTest#run(callback)`
 
-Runs the tests.
+Prepare the tests.
+
+### `SwaggerTest.run(callback)`
+
+Run mocha.
 
 ## Todo
 
