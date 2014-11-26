@@ -1,6 +1,6 @@
 {
   "name": "swagger-mocha",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Automatic validation of Swagger schemas and responses",
   "main": "lib/index.js",
   "repository": "https://github.com/omninews/swagger-mocha.git",
